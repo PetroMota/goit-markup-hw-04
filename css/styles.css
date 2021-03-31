@@ -301,8 +301,8 @@ header {
   background-color: var(--accent-color);
   border-radius: 50%;
 }
-.social-icon:hover,
-.social-icon:focus {
+.social-icons-link:hover .social-icon,
+.social-icons-link:focus .social-icon {
   fill: #ffffff;
 }
 /* клієнти */
